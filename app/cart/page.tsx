@@ -37,6 +37,7 @@ const initialCartItems = [
     image:
       "https://lh3.googleusercontent.com/aida-public/AB6AXuAwUK-3p5h-9I-sTUKuASG_GD81ZPQq7-kUOmZaisPuYjVoZksJ7liTapTWzCxmrTOx-Z6GmD3OrOAojrLOG01gpjYS14wGhDz-3ux9dty7ugR2_3sEqg91G9-pL48NOuqd4jcHaPpNGDSJ52ppszM3ov2Z9u61ppE_nGsyN21Q9axcfRQYKAVCJ6eKOGlyt8kCT-ukO_D7JJAx_zdBMzuYSanvdKqLKohb_Vl4jV_3wxA8-JOm1xfYuKUE3Q2K6ZLqxuJ-Tev7",
     inStock: true,
+     quantity: 1,
   },
   {
     id: 2,
@@ -47,6 +48,7 @@ const initialCartItems = [
     image:
       "https://lh3.googleusercontent.com/aida-public/AB6AXuAL0NgVTb50D312K2dQ6SuEu3wfdqLsTZuFJi4xTiArnBJqH0pPhtdjvPoODYrVlbVl8XN3_Ti1ORpeC_Xpw7YtTKvnnzRK7Az_cdNuxTgzZ_Wbh47sdk6Pq03bIQ0a9fE8XgyMSXTS_rRvZMjYM-HZqA6XMWEm_25OYqVL8KFKc4S5aTM5FiZcchh45kpaLbmDFaBwPQKhnV6nrsraXnrJlbkwOUKaR6ElMtKtdiPYpNomnEWe4I4iH4-kAjW3rbRvvAg0m2Zt",
     inStock: true,
+     quantity: 1,
   },
   {
     id: 3,
@@ -57,6 +59,7 @@ const initialCartItems = [
     image:
       "https://lh3.googleusercontent.com/aida-public/AB6AXuCRtIfwQINXWmxRS0rfQLiCBAt_Hp0r_vlxJ0VLl0B_CVuueNSnfXCrGdnGHr8uH5I16xJIL8l_loyjy3loFrjN-M7j2rLfU5bZHY9dC4ibl-d70evaBNyyH4hoIGptxF6XyAY7-eXRIVi15-7XBpophhEk2ZNJhtg0h496NF66gwzaTvlNlinjuwW1Z4PW80uU4O0M2uBI5XbgCzN-LmZ3AB_YpXSzxooiL-nY9NPQy-Lya_WQ5RDMxDq_KLfgpG86Qn5Yh8H8",
     inStock: true,
+     quantity: 1,
   },
 ];
 
